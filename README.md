@@ -29,9 +29,10 @@ Features:
   Press LEFT for max (5) bombs.
 - Allow region change in Test Menu (Press Right + B when menu item is on "Factory Settings")
 
-Changelog:
-v1.10: Released 12/26/2024:
-       Patch is now compatible with old ("A set") version.  Thanks to UD2.
-
-v1.00: Released 9/13/2022:
-       Initial release.
+Changelog: <br />
+v1.10: Released 12/26/2024: <br />
+       Patch is now compatible with old ("A set") version.  Thanks to UD2. <br />
+<br />
+v1.00: Released 9/13/2022: <br />
+       Initial release. <br />
+<br />
